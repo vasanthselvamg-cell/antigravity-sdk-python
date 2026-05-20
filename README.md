@@ -284,4 +284,4 @@ For more detailed documentation on specific components, see:
 
 ## License
 
-[Apache License 2.0](LICENSE)
+[Apache License 2.0](LI
